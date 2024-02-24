@@ -2,8 +2,10 @@
 
 ### Привет, меня зовут Макс я занимаюсь Веб-разработкой 👋  
 ---
-### Статистика на Git HUB
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimdanilin218&show_icons=true&hide=prs,issues,contribs&theme=dark)
+### :fire: Моя статистика на Git HUB:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimdanilin&theme=dark&background=000000)](https://git.io/streak-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218)](https://github.com/anuraghazra/github-readme-stats)    
+
 ---
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
