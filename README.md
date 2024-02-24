@@ -11,4 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![VS Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
+![Markdown](https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg)
+![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)
+---
 
