@@ -1,4 +1,4 @@
-<div alight ="center">![mountains](https://c4.wallpaperflare.com/wallpaper/482/58/519/leaves-plants-neon-hd-wallpaper-preview.jpg)</div>        
+![mountains](https://c4.wallpaperflare.com/wallpaper/482/58/519/leaves-plants-neon-hd-wallpaper-preview.jpg)        
 
 ### Привет, меня зовут Макс я занимаюсь Веб-разработкой 👋  
 ---
