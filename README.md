@@ -4,7 +4,7 @@
 ---
 ### :fire: Моя статистика на Git HUB:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimdanilin&theme=dark&background=000000)](https://git.io/streak-stats)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218)](https://github.com/anuraghazra/github-readme-stats)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218&layout=compact&theme=dark)   
 
 ---
 ### Мой стек технологий
