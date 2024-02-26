@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="Java" width="30" height="30"/>&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=VSCode)
 
 ---
 
