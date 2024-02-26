@@ -6,7 +6,7 @@
 #### - Мои основные навыки включают в себя работу с HTML, CSS, JavaScript, а также с различными фреймворками, такими как React и Vue.js.
 #### - Я увлечен созданием удобных и красивых интерфейсов, которые помогают пользователю получить лучший опыт использования веб-сайта.
 #### - Я стремлюсь к постоянному саморазвитию и изучению новых технологий, чтобы быть в курсе последних трендов в веб-разработке.
-#### - В свободное время я люблю заниматься спортом и смотреть футбол :soccer:.
+#### - В свободное время я люблю заниматься спортом :muscle: и смотреть футбол :soccer:.
 ---
 ### :fire: Моя статистика на Git HUB:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimdanilin218&show_icons=true&hide=prs,issues,contribs&theme=dark)    
@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218&layout=compact&theme=dark)   
 
 ---
-### Мой стек технологий
+### :information_desk_person: Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)    
