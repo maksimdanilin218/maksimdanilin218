@@ -16,11 +16,15 @@
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)    
+
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)    
+
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=VSCode)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React) 
+![Vue](https://img.shields.io/badge/-Vue-333?style=for-the-badge&logo=Vue)
 
 ---
 
