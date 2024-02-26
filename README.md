@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218&layout=compact&theme=dark)   
 
 ---
-### :information_desk_person: Мой стек технологий
+### :information_desk_person: Мой стек технологий:
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)    
