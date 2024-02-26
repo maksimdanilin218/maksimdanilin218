@@ -9,7 +9,7 @@
 #### - В свободное время я люблю заниматься спортом и смотреть футбол :soccer:.
 ---
 ### :fire: Моя статистика на Git HUB:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimdanilin&theme=dark&background=000000)](https://git.io/streak-stats)    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218&layout=compact&theme=dark)   
 
 ---
