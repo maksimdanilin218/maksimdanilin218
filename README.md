@@ -24,7 +24,7 @@
 
 ![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=VSCode)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React) 
-![Vue](https://img.shields.io/badge/-Vue-333?style=for-the-badge&logo=Vue)
+![Vue.JS](https://img.shields.io/badge/-VueJS-333?style=for-the-badge&logo=VueJS)
 
 ---
 
