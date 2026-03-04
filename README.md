@@ -9,9 +9,12 @@
 #### - В свободное время я люблю заниматься спортом :muscle: и смотреть футбол :soccer:.
 ---
 ### :fire: Моя статистика на Git HUB:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimdanilin218&show_icons=true&hide=prs,issues,contribs&theme=dark)    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218&layout=compact&theme=dark)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimdanilin218&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimdanilin218&show_icons=true)
+
+ 
 
 ---
 ### :information_desk_person: Мой стек технологий:
